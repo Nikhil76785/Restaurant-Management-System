@@ -1,9 +1,7 @@
-# Import tkinter for GUI and ttk for improved widgets
 import tkinter as tk
 from tkinter import ttk, messagebox
 
 
-# Define the RestaurantManagementApp class
 class RestaurantOrderManagement:
     # Initialize the application
     def __init__(self, root):
